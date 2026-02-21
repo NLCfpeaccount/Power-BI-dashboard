@@ -1,2 +1,3 @@
 # Power-BI-dashboard
-contains all dashbord templates
+contains all dashbord screenshots
+
