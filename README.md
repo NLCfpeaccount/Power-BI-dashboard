@@ -34,4 +34,3 @@ I implemented several custom measures to enhance the analytical depth, such as:
 1.  **Download the `.pbix` file:** Located in the `/dashboard` folder of this repo.
 2.  **Open with Power BI Desktop:** Ensure you have the latest version installed to see all custom visuals.
 ---
-Created by [Your Name] | [LinkedIn Profile Link]
