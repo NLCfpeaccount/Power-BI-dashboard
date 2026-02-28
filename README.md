@@ -21,9 +21,18 @@ This dashboard analyzes domestic flight data across India to identify high-traff
 * **DAX (Data Analysis Expressions):** Used for creating custom measures like *Average Delay per Route* and *Year-over-Year Growth*.
 
 ## 🖼️ Dashboard Preview
-> **Note:** Add screenshots of your actual dashboard here to make your profile stand out!
-
-
+<div align="center">
+  <img src="Screenshot 2026-02-03 222845.png"   width="1200" alt="Trades vs winrate">
+  </div>
+  <br>
+  <br>
+  <br>
+<div align="center">
+  <img src="Screenshot 2026-01-26 215016.png"   width="1200" alt="Trades vs winrate">
+  </div>
+  <br>
+  <br>
+  <br
 
 ## 📈 DAX Highlights
 I implemented several custom measures to enhance the analytical depth, such as:
@@ -31,6 +40,6 @@ I implemented several custom measures to enhance the analytical depth, such as:
 * **Route Profitability Index**: A custom formula weighing flight frequency against average ticket price.
 
 ## 🚀 How to View
-1.  **Download the `.pbix` file:** Located in the `/dashboard` folder of this repo.
+1.  **Download the `.pbix` file:** Located in the folder of this repo.
 2.  **Open with Power BI Desktop:** Ensure you have the latest version installed to see all custom visuals.
 ---
